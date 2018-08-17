@@ -1,0 +1,45 @@
+{
+  "name": "rabbit-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaguilarA/Angular-Material-with-Angular-6-.git"
+  },
+  "keywords": [
+    "Express",
+    "MongoDB",
+    "NodeJS",
+    "Mongoose",
+    "BycriptJS"
+  ],
+  "author": "Kevin Aguilar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaguilarA/Angular-Material-with-Angular-6-/issues"
+  },
+  "homepage": "https://github.com/KaguilarA/Angular-Material-with-Angular-6-#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "browser-sync": "^2.23.6",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.2.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-jsdoc3": "^1.0.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-todo": "^5.4.0",
+    "mongoose": "^5.0.11",
+    "morgan": "^1.9.0",
+    "nib": "^1.1.2",
+    "nodemailer": "^4.6.4"
+  }
+}

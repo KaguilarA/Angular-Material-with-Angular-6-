@@ -1,6 +1,6 @@
 {
   "name": "rabbit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +9,16 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaguilarA/Angular-Material-with-Angular-6-.git"
+  },
   "private": true,
+  "author": "Kevin Aguilar",
+  "bugs": {
+    "url": "https://github.com/KaguilarA/Angular-Material-with-Angular-6-/issues"
+  },
+  "homepage": "https://github.com/KaguilarA/Angular-Material-with-Angular-6-#readme",
   "dependencies": {
     "@angular/animations": "^6.1.3",
     "@angular/cdk": "^6.4.5",
